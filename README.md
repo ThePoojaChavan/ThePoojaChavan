@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ThePoojaChavan also known as Data Mom
+- 👋 Hi, I’m @PoojaChavan
 - 👀 I’m interested in Data Cleaning, Exploration and developing insights. In short I like to talk with data.
-- 💞️ I’m looking to collaborate on Data Cleaning, Exploration and Data viz projects
+- 💞️ I’m looking to collaborate on Data Cleaning, Wrangling, Exploration and Viz projects
 - 📫 Connect with me on LI @https://www.linkedin.com/in/thepoojachavan/
 
 <!---
